@@ -161,6 +161,6 @@ app/src/test/java/com/ulfben/spaceshooter/ExampleUnitTest.java
 /.idea/libraries
 .idea
 .DS_Store
-/build
+#/build
 /captures
 .externalNativeBuild
